@@ -5,7 +5,7 @@ Project Resources:
 [Proposal Slides](https://docs.google.com/presentation/d/1_c-I30xfuyo_gHj3XFrR2-xOTXmEChZ7-cuqYBnxYc0/edit?usp=sharing)
 [Proposal Video Script](https://docs.google.com/document/d/1MExfUHWLeqnEdA80qrp3M74KzJRYazh5r0Z06EnTfL0/edit?usp=sharing)
 
-## Presentation Rubric:
+## Presentation Rubric
 - 15-minute presentation in week 14
 - Expectations
     - Brief introduction of background settings of the problem (2 min)
@@ -17,7 +17,7 @@ Project Resources:
 - Make this pretty
 - Conclusion/Takeaway (1 min): What should we learn and remember from your work?
     
-## Content Rubric:
+## Content Rubric
 - Slides of the presentation, including a detailed appendix summarizing research methods and finding should also be submitted by Week 14
 - Evaluation: 20% by the instructor, 5% by within-group peer evaluation, and 5% by cross-group evaluation.
     - Within-group: Rate each of your teammates
@@ -28,7 +28,7 @@ Project Resources:
     2. Rigor of analysis 
     3. Quality of delivery
     
-## Scope: 
+## Scope
 - There is no scope
     - Tools for analysis are not limited to what we have learned in class. However, it is not your responsibility to explain them (assuming we know nothing), if you use techniques not discussed in class
     - Also , feel free to supplement your analysis with data from other sources. However, the main analysis should be focused on the dataset provided by the instructor. It is allowed and encouraged to supplement, but not substitute.
@@ -36,16 +36,16 @@ Project Resources:
     - All results should be reproducible. 
     - All code used for analysis should be submitted along with the paper. 
     
-## Useful Resources:
-- Python for cryptocurrency analysis
-- Predicting Bitcoin Price with News in Python
+## Useful Resources
+- [Python for cryptocurrency analysis](https://medium.datadriveninvestor.com/python-for-finance-cryptocurrency-analysis-661ebd410fac)
+- [Predicting Bitcoin Price with News in Python](https://medium.com/swlh/predicting-bitcoin-price-with-business-news-python-f3bcf60f5818)
 
-## Data Sources:
+## Data Sources
 - BUSF-SHU Bitcoin Dataset
 - Historical Crypto Price Data (Yahoo Finance)
 - Google Trends Data
 
-## Research Questions:
+## Research Questions
 - Are the outliers really invalid?
     - Just check them 
 - Geographic distribution of Bitcoin mining
