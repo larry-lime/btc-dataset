@@ -1,11 +1,11 @@
 geoName,geoCode,Bitcoin
 Nigeria,NG,100
-El Salvador,SV,70
+El Salvador,SV,71
 Namibia,NA,63
-Eswatini,SZ,58
+Eswatini,SZ,59
 Cayman Islands,KY,57
+Caribbean Netherlands,BQ,57
 South Africa,ZA,56
-Caribbean Netherlands,BQ,56
 Curaçao,CW,56
 Cuba,CU,54
 Ghana,GH,53
@@ -16,59 +16,59 @@ Switzerland,CH,49
 Netherlands,NL,49
 St. Helena,SH,49
 Benin,BJ,48
-Lesotho,LS,47
 Singapore,SG,47
-Bermuda,BM,45
+Lesotho,LS,47
+Bermuda,BM,46
 Slovenia,SI,44
 Gibraltar,GI,43
 Cameroon,CM,43
-Cyprus,CY,41
+Cyprus,CY,42
 Togo,TG,41
-Guam,GU,39
-Germany,DE,39
 Botswana,BW,39
 Canada,CA,39
+Germany,DE,39
+Guam,GU,39
+Faroe Islands,FO,38
 Jersey,JE,38
 Australia,AU,38
 Isle of Man,IM,38
 Turkey,TR,37
-Faroe Islands,FO,37
+Turks & Caicos Islands,TC,36
 Sint Maarten,SX,36
-Aruba,AW,35
 Malta,MT,35
-Turks & Caicos Islands,TC,35
+St. Kitts & Nevis,KN,35
 Czechia,CZ,35
+Aruba,AW,35
 Luxembourg,LU,34
 Ireland,IE,34
 Andorra,AD,34
 Papua New Guinea,PG,34
-St. Kitts & Nevis,KN,34
+St. Martin,MF,33
 United Arab Emirates,AE,33
-Estonia,EE,32
 Greenland,GL,32
+Estonia,EE,32
 Kenya,KE,32
-St. Martin,MF,32
-Antigua & Barbuda,AG,31
 Palau,PW,31
-United States,US,30
+Antigua & Barbuda,AG,31
 Iceland,IS,30
+United States,US,30
 Pakistan,PK,29
 New Zealand,NZ,29
-Åland Islands,AX,28
 Zimbabwe,ZW,28
 Albania,AL,28
 Norway,NO,28
 North Macedonia,MK,28
-Belgium,BE,28
 Guernsey,GG,28
+Belgium,BE,28
 United Kingdom,GB,27
+Åland Islands,AX,27
 Hong Kong,HK,27
 Malaysia,MY,27
 Côte d’Ivoire,CI,27
 Mongolia,MN,26
-Nepal,NP,25
-Maldives,MV,25
 Barbados,BB,25
+Maldives,MV,25
+Nepal,NP,25
 Sweden,SE,25
 Croatia,HR,25
 Trinidad & Tobago,TT,25
@@ -92,20 +92,20 @@ India,IN,21
 Suriname,SR,20
 Lithuania,LT,20
 Burkina Faso,BF,20
+Argentina,AR,20
 Panama,PA,20
 Colombia,CO,20
-Northern Mariana Islands,MP,20
 Qatar,QA,20
 U.S. Virgin Islands,VI,20
-Portugal,PT,19
-Argentina,AR,19
+Grenada,GD,19
+Northern Mariana Islands,MP,19
+Seychelles,SC,19
 Bulgaria,BG,19
 Burundi,BI,19
+Portugal,PT,19
 Romania,RO,19
-Grenada,GD,19
 St. Lucia,LC,19
 Western Sahara,EH,18
-Seychelles,SC,18
 Denmark,DK,18
 Bahrain,BH,18
 Israel,IL,18
@@ -117,54 +117,54 @@ Serbia,RS,17
 Mauritius,MU,17
 Afghanistan,AF,17
 Gambia,GM,17
-Italy,IT,17
+Central African Republic,CF,17
 Ethiopia,ET,17
-Equatorial Guinea,GQ,17
 Cambodia,KH,17
+Equatorial Guinea,GQ,17
 Jamaica,JM,17
+Italy,IT,17
+Solomon Islands,SB,16
 Belize,BZ,16
 Dominican Republic,DO,16
-Solomon Islands,SB,16
 Costa Rica,CR,16
-Zambia,ZM,16
 Laos,LA,16
-Central African Republic,CF,16
-Sri Lanka,LK,15
-Paraguay,PY,15
-Armenia,AM,15
+Zambia,ZM,16
 Bangladesh,BD,15
+Indonesia,ID,15
+Sri Lanka,LK,15
+Armenia,AM,15
 Tanzania,TZ,15
 Somalia,SO,15
-Indonesia,ID,15
+Paraguay,PY,15
+Greece,GR,14
+Macao,MO,14
 Vanuatu,VU,14
 Bosnia & Herzegovina,BA,14
 Hungary,HU,14
-Greece,GR,14
 Malawi,MW,14
-Macao,MO,14
-Uruguay,UY,13
-Kuwait,KW,13
 Montenegro,ME,13
-France,FR,13
+Kuwait,KW,13
 South Sudan,SS,13
+Uruguay,UY,13
 Guyana,GY,13
-Monaco,MC,13
 Moldova,MD,13
 Congo - Brazzaville,CG,13
 Haiti,HT,13
-Samoa,WS,12
+France,FR,13
+Monaco,MC,13
 Guinea-Bissau,GW,12
 Djibouti,DJ,12
-Dominica,DM,12
 French Polynesia,PF,12
+Dominica,DM,12
 Tunisia,TN,12
+Samoa,WS,12
+Ecuador,EC,11
+Bolivia,BO,11
 Congo - Kinshasa,CD,11
+Peru,PE,11
+Thailand,TH,11
 Fiji,FJ,11
 Puerto Rico,PR,11
-Peru,PE,11
-Bolivia,BO,11
-Ecuador,EC,11
-Thailand,TH,11
 St. Vincent & Grenadines,VC,11
 Morocco,MA,11
 Angola,AO,11

@@ -40,6 +40,10 @@
 - [Pytrends Tutorial](https://www.thepythoncode.com/article/extract-google-trends-data-in-python)
 - [Pytrends Github Repo](https://github.com/GeneralMills/pytrends)
 
+### Statistical Analysis Methods
+- Min-Max scaling for the graphing
+- User Linear regression to predict the future bitcoin price and other numerical data
+
 ### To-Do
 - Use web scraping to search the internet for the mining pools
     - [Geekg2Geeks Tutorial](https://www.geeksforgeeks.org/performing-google-search-using-python-code/)
