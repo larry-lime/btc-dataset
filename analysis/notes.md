@@ -1,0 +1,45 @@
+# Project Notes
+[Project Link](https://docs.google.com/document/d/1C2lyHeIPJA2I4QPfz0SOv1lIj86oaogqGy9ZbJR0iRw/edit?usp=sharing)
+
+## Research Questions:
+- Are the outliers really invalid? 
+    + Just check them 
+- Geographic distribution of Bitcoin mining 
+    + A bit difficult
+    Can only determine correlation and not causation
+- Correlation with stocks
+    + Which non-tech stock is most strongly correlated with the price of Bitcoin
+    + And why?
+- Most hyped crypto
+    + Use Google Trends
+- Tell a story about how world events manifests itself in bitcoin block and price data
+- If we want to we now have a systematic way of finding out what is the most hyped crypto
+    - Gather historical price data
+    - Gather historical trends data
+    - Gather BTC dataset numerical datapoints
+    - Min-max scale all the data and graph it
+    - Calculate the correlation
+    - Try and predict a future outcome
+        
+### Interesting Topics to Explore
+- Look into that ML algorithm that used the news to conduct sentiment analysis and make projections for the future of bitcoin's price
+- Look into the correlation between the location of the bitcoin mining pools and the search results per region
+- 
+
+### Interesting Relations
+
+## Analysis
+### Resources
+- Python Packages
+    - 
+- Websites
+    - [Open Blender](https://www.openblender.io/#/welcome)
+
+### Data Analysis Methods
+1. Using pytrends to import Google Trends data
+- [Pytrends Tutorial](https://www.thepythoncode.com/article/extract-google-trends-data-in-python)
+- [Pytrends Github Repo](https://github.com/GeneralMills/pytrends)
+
+### To-Do
+- Use web scraping to search the internet for the mining pools
+    - [Geekg2Geeks Tutorial](https://www.geeksforgeeks.org/performing-google-search-using-python-code/)

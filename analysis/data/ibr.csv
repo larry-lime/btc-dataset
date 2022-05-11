@@ -1,0 +1,251 @@
+geoName,geoCode,Bitcoin
+Nigeria,NG,100
+El Salvador,SV,70
+Namibia,NA,63
+Eswatini,SZ,58
+Cayman Islands,KY,57
+South Africa,ZA,56
+Caribbean Netherlands,BQ,56
+Curaçao,CW,56
+Cuba,CU,54
+Ghana,GH,53
+Liechtenstein,LI,52
+Austria,AT,51
+Kosovo,XK,50
+Switzerland,CH,49
+Netherlands,NL,49
+St. Helena,SH,49
+Benin,BJ,48
+Lesotho,LS,47
+Singapore,SG,47
+Bermuda,BM,45
+Slovenia,SI,44
+Gibraltar,GI,43
+Cameroon,CM,43
+Cyprus,CY,41
+Togo,TG,41
+Guam,GU,39
+Germany,DE,39
+Botswana,BW,39
+Canada,CA,39
+Jersey,JE,38
+Australia,AU,38
+Isle of Man,IM,38
+Turkey,TR,37
+Faroe Islands,FO,37
+Sint Maarten,SX,36
+Aruba,AW,35
+Malta,MT,35
+Turks & Caicos Islands,TC,35
+Czechia,CZ,35
+Luxembourg,LU,34
+Ireland,IE,34
+Andorra,AD,34
+Papua New Guinea,PG,34
+St. Kitts & Nevis,KN,34
+United Arab Emirates,AE,33
+Estonia,EE,32
+Greenland,GL,32
+Kenya,KE,32
+St. Martin,MF,32
+Antigua & Barbuda,AG,31
+Palau,PW,31
+United States,US,30
+Iceland,IS,30
+Pakistan,PK,29
+New Zealand,NZ,29
+Åland Islands,AX,28
+Zimbabwe,ZW,28
+Albania,AL,28
+Norway,NO,28
+North Macedonia,MK,28
+Belgium,BE,28
+Guernsey,GG,28
+United Kingdom,GB,27
+Hong Kong,HK,27
+Malaysia,MY,27
+Côte d’Ivoire,CI,27
+Mongolia,MN,26
+Nepal,NP,25
+Maldives,MV,25
+Barbados,BB,25
+Sweden,SE,25
+Croatia,HR,25
+Trinidad & Tobago,TT,25
+Bahamas,BS,24
+Lebanon,LB,24
+Georgia,GE,24
+Brazil,BR,24
+Philippines,PH,24
+Slovakia,SK,23
+Brunei,BN,23
+Venezuela,VE,22
+San Marino,SM,22
+Uganda,UG,22
+Finland,FI,22
+Bhutan,BT,22
+Spain,ES,22
+British Virgin Islands,VG,21
+Latvia,LV,21
+Madagascar,MG,21
+India,IN,21
+Suriname,SR,20
+Lithuania,LT,20
+Burkina Faso,BF,20
+Panama,PA,20
+Colombia,CO,20
+Northern Mariana Islands,MP,20
+Qatar,QA,20
+U.S. Virgin Islands,VI,20
+Portugal,PT,19
+Argentina,AR,19
+Bulgaria,BG,19
+Burundi,BI,19
+Romania,RO,19
+Grenada,GD,19
+St. Lucia,LC,19
+Western Sahara,EH,18
+Seychelles,SC,18
+Denmark,DK,18
+Bahrain,BH,18
+Israel,IL,18
+Poland,PL,17
+Rwanda,RW,17
+St. Pierre & Miquelon,PM,17
+Vietnam,VN,17
+Serbia,RS,17
+Mauritius,MU,17
+Afghanistan,AF,17
+Gambia,GM,17
+Italy,IT,17
+Ethiopia,ET,17
+Equatorial Guinea,GQ,17
+Cambodia,KH,17
+Jamaica,JM,17
+Belize,BZ,16
+Dominican Republic,DO,16
+Solomon Islands,SB,16
+Costa Rica,CR,16
+Zambia,ZM,16
+Laos,LA,16
+Central African Republic,CF,16
+Sri Lanka,LK,15
+Paraguay,PY,15
+Armenia,AM,15
+Bangladesh,BD,15
+Tanzania,TZ,15
+Somalia,SO,15
+Indonesia,ID,15
+Vanuatu,VU,14
+Bosnia & Herzegovina,BA,14
+Hungary,HU,14
+Greece,GR,14
+Malawi,MW,14
+Macao,MO,14
+Uruguay,UY,13
+Kuwait,KW,13
+Montenegro,ME,13
+France,FR,13
+South Sudan,SS,13
+Guyana,GY,13
+Monaco,MC,13
+Moldova,MD,13
+Congo - Brazzaville,CG,13
+Haiti,HT,13
+Samoa,WS,12
+Guinea-Bissau,GW,12
+Djibouti,DJ,12
+Dominica,DM,12
+French Polynesia,PF,12
+Tunisia,TN,12
+Congo - Kinshasa,CD,11
+Fiji,FJ,11
+Puerto Rico,PR,11
+Peru,PE,11
+Bolivia,BO,11
+Ecuador,EC,11
+Thailand,TH,11
+St. Vincent & Grenadines,VC,11
+Morocco,MA,11
+Angola,AO,11
+Gabon,GA,11
+Cape Verde,CV,11
+Azerbaijan,AZ,11
+Myanmar (Burma),MM,11
+Mexico,MX,11
+Marshall Islands,MH,11
+New Caledonia,NC,11
+South Korea,KR,10
+Uzbekistan,UZ,10
+Sierra Leone,SL,10
+Honduras,HN,10
+Liberia,LR,10
+Anguilla,AI,10
+Niger,NE,10
+Turkmenistan,TM,10
+Chile,CL,10
+Senegal,SN,10
+French Guiana,GF,9
+St. Barthélemy,BL,9
+Oman,OM,9
+Guatemala,GT,9
+Mozambique,MZ,9
+Réunion,RE,8
+Guadeloupe,GP,8
+Mayotte,YT,8
+Chad,TD,8
+Martinique,MQ,8
+Jordan,JO,8
+Nicaragua,NI,8
+Iran,IR,8
+Algeria,DZ,7
+Ukraine,UA,7
+Saudi Arabia,SA,7
+Russia,RU,7
+Mali,ML,7
+Mauritania,MR,7
+Guinea,GN,7
+Timor-Leste,TL,6
+Palestine,PS,6
+Egypt,EG,6
+Belarus,BY,5
+Libya,LY,5
+Kyrgyzstan,KG,5
+Kazakhstan,KZ,5
+Syria,SY,4
+Taiwan,TW,4
+Iraq,IQ,4
+Sudan,SD,3
+China,CN,3
+Tajikistan,TJ,3
+Yemen,YE,2
+Japan,JP,2
+Micronesia,FM,0
+Niue,NU,0
+Nauru,NR,0
+Antarctica,AQ,0
+Montserrat,MS,0
+Wallis & Futuna,WF,0
+Heard & McDonald Islands,HM,0
+Vatican City,VA,0
+North Korea,KP,0
+American Samoa,AS,0
+Norfolk Island,NF,0
+Tuvalu,TV,0
+French Southern Territories,TF,0
+Tokelau,TK,0
+British Indian Ocean Territory,IO,0
+São Tomé & Príncipe,ST,0
+Christmas Island,CX,0
+Cocos (Keeling) Islands,CC,0
+South Georgia & South Sandwich Islands,GS,0
+Bouvet Island,BV,0
+Tonga,TO,0
+U.S. Outlying Islands,UM,0
+Comoros,KM,0
+Cook Islands,CK,0
+Eritrea,ER,0
+Pitcairn Islands,PN,0
+Falkland Islands (Islas Malvinas),FK,0
+Svalbard & Jan Mayen,SJ,0
+Kiribati,KI,0
